@@ -1,13 +1,13 @@
 # Web Performance
 
 
-## Website Performance and Optimization: Sachin K/ Vijay
+## Website Performance and Optimization: Sachin K & Vijay
 This section will cover in depth description about perfomance and optimization of front-end applications.
 
-## Performance Tips on React : @shobhitghai
+## Performance Tips on React : Shobhit & Nishat
 Focus of this session would be tips specific to React application. It will also describe use of various tools that can help measure performance of React apps.
 
-## Tooling to measure your website performance: Gopal
+## Tooling to measure your website performance: Gopal & Krishank
 This section will elaborate how tools can help measure the performance of the web application.
 
 
@@ -26,3 +26,17 @@ This section will elaborate how tools can help measure the performance of the we
 * [React performance tips](https://medium.com/@joomiguelcunha/react-performance-tips-5fa199a450b2)
 
 * [React/Redux Performance Tuning Tips](https://medium.com/@arikmaor/react-redux-performance-tuning-tips-cef1a6c50759)
+
+* [Performance optimizations for React applications: Round 2](https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-round-2-2042e5c9af97)
+
+* [Server Rendering, Code Splitting, and Lazy Loading with React Router v4](https://medium.com/airbnb-engineering/server-rendering-code-splitting-and-lazy-loading-with-react-router-v4-bfe596a6af70)
+
+* [React performance optimisation tool](https://github.com/reactopt/reactopt)
+
+* [React.js pure render performance anti-pattern](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f)
+
+* [Analyzing Critical Rendering Path Performance](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/analyzing-crp?hl=en)
+
+* [Why did you update](https://github.com/maicki/why-did-you-update)
+
+* [High Performance React: 3 New Tools to Speed Up Your Apps](https://medium.freecodecamp.org/make-react-fast-again-tools-and-techniques-for-speeding-up-your-react-app-7ad39d3c1b82)
