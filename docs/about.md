@@ -1,4 +1,4 @@
 # Web Performance
 
 
-[Home](home.md)
+[Home](/)
