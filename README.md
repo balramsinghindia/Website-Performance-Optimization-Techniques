@@ -53,7 +53,7 @@ This section will elaborate how tools can help measure the performance of the we
 
 * [JavaScript Memory & Processing Profiling In Chrome](https://www.youtube.com/watch?v=KKwmdTByxLk)
 
-* Use Immutable](https://facebook.github.io/react/docs/advanced-performance.html)
+* [Use Immutable](https://facebook.github.io/react/docs/advanced-performance.html)
 
 * [Create Pure components](https://facebook.github.io/react/docs/reusable-components.html)
 
@@ -63,8 +63,7 @@ This section will elaborate how tools can help measure the performance of the we
 
 * [Use chrome dev toolbar for load screenshot and profiling](https://www.youtube.com/watch?v=pt4TjbSQz-g)
 
-* [Use lib like sitespeed and PSI](https://github.com/
-addyosmani/psi)
+* [Use lib like sitespeed and PSI](https://github.com/addyosmani/psi)
 
 * [Understand React Performance tips](https://facebook.github.io/react/docs/perf.html)
 
