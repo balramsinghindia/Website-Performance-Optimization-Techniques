@@ -13,6 +13,8 @@ This section will elaborate how tools can help measure the performance of the we
 
 
 ## References
+* [React & Performance - Balram Singh](https://slides.com/balramsingh/react-performace)
+
 * [React Anti Pattern](https://github.com/nfour/js-structures/blob/master/guides/react-anti-patterns.md)
 
 * [Debugging React Performance with React 16 and Chrome dev tools](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad)
